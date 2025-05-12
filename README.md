@@ -589,9 +589,12 @@ export default PostEventSurvey;
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/08a83942-7c86-40a1-aa4d-4e9b39755bf8)
-![image](https://github.com/user-attachments/assets/588303d2-3478-4f3a-af31-ed0ced9575f4)
-![image](https://github.com/user-attachments/assets/a8ab37fc-a365-455d-8fc2-6347ec14d3cb)
+![image](https://github.com/user-attachments/assets/bae7f9c1-1993-4de8-bd1b-8f93410fed50)
+![image](https://github.com/user-attachments/assets/5f7bb680-b6f6-499d-997f-720d7807ff7a)
+![image](https://github.com/user-attachments/assets/c358365a-a313-4266-ad3d-adfd9a90ee08)
+
+
+
 
 
 
